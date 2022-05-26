@@ -11,7 +11,7 @@ It is very important to maintain efficient system to handle information of a Hos
 ![Get patient name who is older than 25](https://user-images.githubusercontent.com/101582196/170394572-3af5313e-3207-4874-9dfd-c29b04d772c1.JPG)
 ### Get patients rooms
 ![Get patients rooms](https://user-images.githubusercontent.com/101582196/170394614-1f0585e9-c507-409e-92f2-291fa1e36061.JPG)
-### Get doctor name associated woth their department and patients
+### Get doctor name associated with their department and patients
 ![Get doctor name associated woth their department and patients](https://user-images.githubusercontent.com/101582196/170394666-f6fff334-9ad0-4f61-a0e4-b39c261972e9.JPG)
 ### Get doctors info that work in cardiology department
 ![Get doctors info that work in cardiology department](https://user-images.githubusercontent.com/101582196/170394710-28ff96a6-b8e7-4d10-bdf6-8b2f57e787c9.JPG)
