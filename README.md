@@ -1,5 +1,7 @@
 # Ontologies-Hospital-Project
 Project for hospital system for ontologies and semantic web course 
+## problem statment
+It is very important to maintain efficient system to handle information of a Hospital. This application provides away to record this information and to access these in a simple way.
 ## RDF
 ![Hospital RDF](https://user-images.githubusercontent.com/101582196/170394252-85564599-80c7-4532-affa-02b0c6e2132b.png)
 ## Queries
